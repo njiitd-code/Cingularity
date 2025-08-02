@@ -13,9 +13,14 @@
    ```bash
    npm install
    ```
-4. **Start the server:**
+4. **Start the development server:**
    ```bash
    npm run dev
+   ```
+   **OR for production build:**
+   ```bash
+   npm run build
+   npm start
    ```
 5. **Open browser** and go to `http://localhost:5000`
 
@@ -139,6 +144,17 @@ Replace the text logo in `client/src/pages/home.tsx` (line ~105) with an image:
 - **Modern Stack**: React, TypeScript, Tailwind CSS
 
 ## 🚨 Troubleshooting
+
+### "Cannot find module dist/index.js" error
+This happens when you run `npm start` without building first:
+```bash
+# Solution: Use development mode
+npm run dev
+
+# OR build first, then start
+npm run build
+npm start
+```
 
 ### "Command not found" errors
 - Install Node.js from [nodejs.org](https://nodejs.org)
