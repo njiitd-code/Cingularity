@@ -202,7 +202,7 @@ export default function Home() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `linear-gradient(rgba(30, 64, 175, 0.7), rgba(30, 64, 175, 0.7)), url('https://images.unsplash.com/photo-1569163139394-de44aa4cd6c6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080')`
+            backgroundImage: `linear-gradient(rgba(30, 64, 175, 0.7), rgba(30, 64, 175, 0.7)), url('https://static.wixstatic.com/media/61449d37e2c84f6ca369b41542d785a3.jpg/v1/fill/w_1920,h_1080,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/61449d37e2c84f6ca369b41542d785a3.jpg')`
           }}
         />
         
@@ -311,18 +311,18 @@ export default function Home() {
             
             <div className="space-y-4">
               <img 
-                src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
+                src="https://static.wixstatic.com/media/3e2df2_d4a8e0d9bc9e4946a7b109eb3ad11349~mv2.jpg/v1/fill/w_800,h_600,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e2df2_d4a8e0d9bc9e4946a7b109eb3ad11349~mv2.jpg" 
                 alt="Modern aerospace manufacturing facility" 
                 className="rounded-xl shadow-lg w-full" 
               />
               <div className="grid grid-cols-2 gap-4">
                 <img 
-                  src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300" 
+                  src="https://static.wixstatic.com/media/3e2df2_e0e15fdabc6349e8b4a6176ec45101d5~mv2.jpg/v1/fill/w_400,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-03-14%20at%207_27_edited.jpg" 
                   alt="Precision aerospace component inspection" 
                   className="rounded-lg shadow-md w-full h-32 object-cover" 
                 />
                 <img 
-                  src="https://images.unsplash.com/photo-1565796719207-bc51bb419b77?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300" 
+                  src="https://static.wixstatic.com/media/3e2df2_c4d7aef8dc744d3ea8c3c38b1a9f4e6d~mv2.jpg/v1/fill/w_400,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-04-04%20at%201_12_edited.jpg" 
                   alt="Composite materials manufacturing process" 
                   className="rounded-lg shadow-md w-full h-32 object-cover" 
                 />
@@ -347,7 +347,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1622737133809-d95047b9e673?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://static.wixstatic.com/media/3e2df2_7a83ecd20a8f4b2e9009353478ec5837~mv2.webp/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Hexacopter%20Agriculture%20Drone.webp" 
                   alt="Agricultural drone spraying crops in field" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -369,7 +369,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://static.wixstatic.com/media/3e2df2_adffb4964a8e49a984d3f6e0a367abd6~mv2.png/v1/fill/w_600,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Surveying%20drone.png" 
                   alt="Professional survey drone with mapping sensors" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -391,7 +391,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1544724107-6d5c4caaff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://static.wixstatic.com/media/3e2df2_c910536d4c7141e488a87cd887d47655~mv2.webp/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/VTOL%20FIXED%20WING%20LALE.webp" 
                   alt="VTOL fixed-wing UAV in flight operations" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -413,7 +413,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1518623489648-a173ef7824f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://static.wixstatic.com/media/3e2df2_3fe8cabba29a4bb1b85de8e43172d80c~mv2.png/v1/fill/w_600,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/sierra%20tang%20tandem%20wing_edited.png" 
                   alt="Tactical military UAV for reconnaissance missions" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -435,7 +435,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://static.wixstatic.com/media/3e2df2_5447c1ed92d741329dedf8e881541440~mv2.jpeg/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202024-04-05%20at%203_43_20%20PM.jpeg" 
                   alt="High-speed target drone for military training" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -457,7 +457,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1570630041071-d2d14ffdc0d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://static.wixstatic.com/media/3e2df2_f526b407567640efbdb0c1d8ef79fe86~mv2.png/v1/fill/w_600,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hybird%20product%20pic_edited.png" 
                   alt="Hybrid power drone with advanced propulsion system" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
