@@ -202,7 +202,7 @@ export default function Home() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `linear-gradient(rgba(30, 64, 175, 0.7), rgba(30, 64, 175, 0.7)), url('https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080')`
+            backgroundImage: `linear-gradient(rgba(30, 64, 175, 0.7), rgba(30, 64, 175, 0.7)), url('https://images.unsplash.com/photo-1569163139394-de44aa4cd6c6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080')`
           }}
         />
         
@@ -311,18 +311,18 @@ export default function Home() {
             
             <div className="space-y-4">
               <img 
-                src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
+                src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
                 alt="Modern aerospace manufacturing facility" 
                 className="rounded-xl shadow-lg w-full" 
               />
               <div className="grid grid-cols-2 gap-4">
                 <img 
-                  src="https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300" 
+                  src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300" 
                   alt="Precision aerospace component inspection" 
                   className="rounded-lg shadow-md w-full h-32 object-cover" 
                 />
                 <img 
-                  src="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300" 
+                  src="https://images.unsplash.com/photo-1565796719207-bc51bb419b77?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300" 
                   alt="Composite materials manufacturing process" 
                   className="rounded-lg shadow-md w-full h-32 object-cover" 
                 />
@@ -347,7 +347,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1473968512647-3e447244af8f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://images.unsplash.com/photo-1622737133809-d95047b9e673?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
                   alt="Agricultural drone spraying crops in field" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -369,7 +369,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1508614589041-895b88991e3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
                   alt="Professional survey drone with mapping sensors" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -391,7 +391,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://images.unsplash.com/photo-1544724107-6d5c4caaff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
                   alt="VTOL fixed-wing UAV in flight operations" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -413,7 +413,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://images.unsplash.com/photo-1518623489648-a173ef7824f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
                   alt="Tactical military UAV for reconnaissance missions" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -435,7 +435,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1567789884554-0b844b597180?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
                   alt="High-speed target drone for military training" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
@@ -457,7 +457,7 @@ export default function Home() {
             <Card className="hover:shadow-xl transition-shadow duration-300 group">
               <CardContent className="p-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
+                  src="https://images.unsplash.com/photo-1570630041071-d2d14ffdc0d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400" 
                   alt="Hybrid power drone with advanced propulsion system" 
                   className="w-full h-48 object-cover rounded-lg mb-4 group-hover:scale-105 transition-transform duration-300" 
                 />
