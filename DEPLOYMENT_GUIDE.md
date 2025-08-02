@@ -156,6 +156,17 @@ npm run build
 npm start
 ```
 
+### "ENOTSUP: operation not supported on socket" error
+This network error on Mac/Windows is now fixed. Try:
+```bash
+npm run build
+npm start
+```
+If still having issues, use development mode:
+```bash
+npm run dev
+```
+
 ### "Command not found" errors
 - Install Node.js from [nodejs.org](https://nodejs.org)
 - Restart your terminal/command prompt
