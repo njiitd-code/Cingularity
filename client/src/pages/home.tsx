@@ -213,7 +213,7 @@ export default function Home() {
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto font-light">
             AS 9100 D & ISO 9001/2015 certified leader in UAV manufacturing, aerospace components, and precision engineering solutions
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <div className="flex justify-center">
             <Button 
               variant="amber"
               size="lg"
@@ -221,13 +221,6 @@ export default function Home() {
               className="text-lg font-semibold"
             >
               Explore Our Solutions
-            </Button>
-            <Button 
-              variant="outline"
-              size="lg"
-              className="text-lg font-semibold border-2 border-white text-white hover:bg-white hover:text-[hsl(217,91%,60%)]"
-            >
-              Download Catalog
             </Button>
           </div>
         </div>
